@@ -1,0 +1,18 @@
+# SQLite Database
+data.sqlite
+
+# Cache
+.cache
+dist
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
