@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 align="center" style="font-weight: 600">ZhiShanYunXu</h2>
+<h2 align="center" style="font-weight: 600">ZhiShanYunXue</h2>
 
 <p align="center">
     基于Go的<a>至善云学</a>后端
