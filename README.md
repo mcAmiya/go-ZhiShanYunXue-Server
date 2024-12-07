@@ -1,3 +1,5 @@
+![项目Logo](images/README/zsyx_logo_big.png "项目Logo")
+
 <div align="center">
 
 <h2 align="center" style="font-weight: 600">ZhiShanYunXue</h2>
